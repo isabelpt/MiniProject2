@@ -9,11 +9,17 @@
 import UIKit
 
 class SecondViewController: UIViewController {
-
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+    }
+    @IBOutlet weak var attempsDisp: UILabel!
+    @IBAction func sharkButton(_ sender: UIButton) {
+    }
+    @IBAction func sailfishButton(_ sender: UIButton) {
+    }
+    @IBAction func squidButton(_ sender: Any) {
     }
     
 

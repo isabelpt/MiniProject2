@@ -156,6 +156,7 @@ It can go up to 78 mph. </string>
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
+                                    <action selector="sharkButton:" destination="VSN-1i-CV3" eventType="touchUpInside" id="u0W-8H-BaV"/>
                                     <segue destination="OCz-3E-D0v" kind="show" id="msX-Lz-bZ5"/>
                                 </connections>
                             </button>
@@ -168,6 +169,7 @@ It can go up to 78 mph. </string>
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
+                                    <action selector="sailfishButton:" destination="VSN-1i-CV3" eventType="touchUpInside" id="dyv-wQ-uBM"/>
                                     <segue destination="41b-vV-CzE" kind="show" id="p2a-sK-5dK"/>
                                 </connections>
                             </button>
@@ -180,6 +182,7 @@ It can go up to 78 mph. </string>
                                     <color key="titleColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 </state>
                                 <connections>
+                                    <action selector="squidButton:" destination="VSN-1i-CV3" eventType="touchUpInside" id="wrB-OO-EGm"/>
                                     <segue destination="OCz-3E-D0v" kind="show" id="cyC-Ji-Hak"/>
                                 </connections>
                             </button>
@@ -583,7 +586,7 @@ It can go up to 78 mph. </string>
                                 <rect key="frame" x="20" y="494" width="378" height="83"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <string key="text">Humans kill around 100 million sharks 
-a year. In comparison, shark kill 
+a year. In comparison, sharks kill 
 on average 4 humans per year.</string>
                                 <fontDescription key="fontDescription" type="system" pointSize="23"/>
                                 <nil key="textColor"/>
@@ -800,13 +803,13 @@ is covered in water!</string>
         <segue reference="b5I-Jw-xYW"/>
         <segue reference="T2b-4t-fVc"/>
         <segue reference="Q45-pp-23S"/>
-        <segue reference="U9a-2a-XOU"/>
-        <segue reference="9Hw-Hn-fU6"/>
+        <segue reference="Jh5-GK-7ZR"/>
+        <segue reference="2xl-AL-7YA"/>
         <segue reference="TPA-bX-KDx"/>
-        <segue reference="E3P-NY-Pgg"/>
+        <segue reference="r3S-A5-fUW"/>
         <segue reference="ntj-9E-d57"/>
         <segue reference="msX-Lz-bZ5"/>
-        <segue reference="Zz0-Mt-Jr6"/>
+        <segue reference="Aew-T6-Tzh"/>
     </inferredMetricsTieBreakers>
     <resources>
         <image name="43dd0a485a72cbab1936d4117493f935-ocean-stroke-coral-by-vexels" width="170.5" height="170.5"/>
