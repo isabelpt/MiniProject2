@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "purepng.com-earth-planet-globe-worldnatureearthglobeplanetworld-961524677896ubxtw.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "purepng.com-earth-planet-globe-worldnatureearthglobeplanetworld-961524677896ubxtw@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "purepng.com-earth-planet-globe-worldnatureearthglobeplanetworld-961524677896ubxtw@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
